@@ -1,0 +1,15 @@
+{
+  "name": "react-native-scroll-locky",
+  "version": "1.0.0",
+  "description": "A utility that creates the right pan handlers for you to lock the direction of your nested scroll views",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Ioannis Kokkinidis",
+    "email": "sudoplz@gmail.com",
+    "url": "https://www.linkedin.com/in/sudoplz"
+  },
+  "license": "MIT"
+}
