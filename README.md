@@ -24,9 +24,9 @@ import RNLocky from "react-native-scroll-locky";
 class AClass extends Component {
   constructor(props) {
     super(props);
-    this.directionLockPanHandler = new ScrollDirectionLockManager(
-      ScrollDirectionLockManager.Direction.HORIZONTAL,
-      // or ScrollDirectionLockManager.Direction.VERTICAL
+    this.directionLockPanHandler = new RNLocky(
+      RNLocky.Direction.HORIZONTAL,
+      // or RNLocky.Direction.VERTICAL
     );
   }
   
